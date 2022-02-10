@@ -1,3 +1,3 @@
 # AWS HandsOn Training
-- Amplify SNS Workshop
+- 2022/02/10 [Amplify SNS Workshop](https://amplify-sns.workshop.aws/ja/)
 
