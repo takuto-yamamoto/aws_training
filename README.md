@@ -1,2 +1,3 @@
-# aws_training
-aws tutorial training
+# AWS HandsOn Training
+## Amplify SNS Workshop
+
