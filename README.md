@@ -1,3 +1,3 @@
 # AWS HandsOn Training
-## Amplify SNS Workshop
+- Amplify SNS Workshop
 
